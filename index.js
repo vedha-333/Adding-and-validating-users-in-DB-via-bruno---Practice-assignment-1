@@ -9,7 +9,7 @@ const port = 3010;
 
 const mongoose=require('mongoose')
 
-mongoose.connect('mongodb+srv://amityohan20:PfwrwRdOI7H1BZSx@cluster0.jmbrf.mongodb.net/adding-and-validating-users')
+mongoose.connect('mongodb+srv://vedantpandilwad48:vedant@123@cluster0.w7ida.mongodb.net/')
 .then(()=>{
   console.log('Connected to database')
 })
